@@ -12,7 +12,7 @@
             </div>
             <div class="col-lg-3 col-md-6 mb-5">
                 <h4 class="font-weight-semi-bold text-primary mb-4">Get In Touch</h4>
-                <p><i class="fa fa-map-marker-alt text-primary mr-2"></i>123 Street, New York, USA</p>
+                <p><i class="fa fa-map-marker-alt text-primary mr-2"></i>Mumbai India</p>
                 <p><i class="fa fa-phone-alt text-primary mr-2"></i>+91 93244 687010</p>
                 <p><i class="fa fa-envelope text-primary mr-2"></i>rahusparihar4@gmail.com</p>
                 <div class="d-flex justify-content-start mt-4">
@@ -49,7 +49,7 @@
     <div class="container-fluid bg-dark text-white border-top py-4 px-sm-3 px-md-5" style="border-color: #3E3E4E !important;">
         <div class="row">
             <div class="col-lg-12 text-center text-md-center mb-3 mb-md-0">
-                <p class="m-0 text-white">&copy; <a href="#">Workforceenterprises</a>. All Rights Reserved. Designed by <a href="http://workforceenterprises.in/">HTML Codex</a>
+                <p class="m-0 text-white">&copy; <a href="#">Workforceenterprises</a>. All Rights Reserved. Designed by <a href="http://workforceenterprises.in/">Workforceenterprises</a>
                 </p>
             </div>
            

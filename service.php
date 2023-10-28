@@ -54,7 +54,7 @@
                     <i class="fa fa-3x fa-map-marker-alt text-secondary mr-4"></i>
                     <div class="">
                         <h5 class="mb-2">Our Office</h5>
-                        <p class="m-0">123 Street, New York, USA</p>
+                        <p class="m-0">Mumbai India</p>
                     </div>
                 </div>
             </div>
