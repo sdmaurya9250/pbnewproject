@@ -1,20 +1,20 @@
     <!-- Footer Start -->
     <div class="container-fluid bg-dark text-white mt-5 py-5 px-sm-3 px-md-5">
         <div class="row pt-5">
-            <div class="col-lg-3 col-md-6 mb-5">
+            <div class="col-lg-3 col-md-6">
                 <a href="index.php" class="navbar-brand">
-                    <h1 class="m-0 mt-n3 display-5 text-primary">Workforceenterprises</h1>
+                    <!-- <h2 class="m-0 mt-n3 display-51 text-primary">Workforceenterprises</h2> -->
+                    <h4 class="font-weight-semi-bold text-primary mb-4">Workforceenterprises</h4>
                 </a>
-                <p>Volup amet magna clita tempor. Tempor sea eos vero ipsum. Lorem lorem sit sed elitr sed kasd et</p>
-                <h5 class="font-weight-semi-bold text-white mb-2">Opening Hours:</h5>
-                <p class="mb-1">Mon – Sat, 8AM – 5PM</p>
-                <p class="mb-0">Sunday: Closed</p>
+                <p>We promise you will not need to manage us. We are an inspired bunch.
+Because we feel that by bettering your physical environment, we are following nature's command. By going an extra mile for parenting your assets, we are doing our bit for the planet, and for God.</p>
+
             </div>
             <div class="col-lg-3 col-md-6 mb-5">
                 <h4 class="font-weight-semi-bold text-primary mb-4">Get In Touch</h4>
-                <p><i class="fa fa-map-marker-alt text-primary mr-2"></i>Mumbai India</p>
-                <p><i class="fa fa-phone-alt text-primary mr-2"></i>+91 93244 687010</p>
-                <p><i class="fa fa-envelope text-primary mr-2"></i>rahusparihar4@gmail.com</p>
+                <p><i class="fa fa-map-marker-alt text-primary mr-2"></i>Hanuman T, Gate No 1 hanif chs Santacruz east Mumbai 400055</p>
+                <p><i class="fa fa-phone-alt text-primary mr-2"></i>+91 81699309440</p>
+                <p><i class="fa fa-envelope text-primary mr-2"></i>rahul@workforceenterprises.in</p>
                 <div class="d-flex justify-content-start mt-4">
                     <a class="btn btn-light btn-social mr-2" href="#"><i class="fab fa-twitter"></i></a>
                     <a class="btn btn-light btn-social mr-2" href="#"><i class="fab fa-facebook-f"></i></a>
@@ -28,13 +28,13 @@
                     <a class="text-white mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>Home</a>
                     <a class="text-white mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>About Us</a>
                     <a class="text-white mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>Our Services</a>
-                    <a class="text-white mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>Our Projects</a>
+                    <!-- <a class="text-white mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>Our Projects</a> -->
                     <a class="text-white" href="#"><i class="fa fa-angle-right mr-2"></i>Contact Us</a>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6 mb-5">
                 <h4 class="font-weight-semi-bold text-primary mb-4">Newsletter</h4>
-                <p>Rebum labore lorem dolores kasd est, et ipsum amet et at kasd, ipsum sea tempor magna tempor. Accu kasd sed ea duo ipsum.</p>
+                <p>We are experts in modernising the facilities management industry through innovation and customizing our responsibilities by making our team an extension of your business.</p>
                 <div class="w-100">
                     <div class="input-group">
                         <input type="text" class="form-control border-0" style="padding: 25px;" placeholder="Your Email">

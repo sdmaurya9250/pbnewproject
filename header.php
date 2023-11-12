@@ -43,11 +43,11 @@
                     <div class="col-lg-7 text-left text-white">
                         <div class="h-100 d-inline-flex align-items-center border-right border-primary py-2 px-3">
                             <i class="fa fa-envelope text-primary mr-2"></i>
-                            <small>rahusparihar4@gmail.com</small>
+                            <small>rahul@workforceenterprises.in</small>
                         </div>
                         <div class="h-100 d-inline-flex align-items-center py-2 px-2">
                             <i class="fa fa-phone-alt text-primary mr-2"></i>
-                            <small>+91 93244 68701</small>
+                            <small>+91 8169930944</small>
                         </div>
                     </div>
                     <div class="col-lg-5 text-right">

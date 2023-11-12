@@ -54,7 +54,7 @@
                     <i class="fa fa-3x fa-map-marker-alt text-secondary mr-4"></i>
                     <div class="">
                         <h5 class="mb-2">Our Office</h5>
-                        <p class="m-0">Mumbai India</p>
+                        <p class="m-0">Hanuman T, Gate No 1 hanif chs Santacruz east Mumbai 400055</p>
                     </div>
                 </div>
             </div>
@@ -63,7 +63,7 @@
                     <i class="fa fa-3x fa-envelope-open text-primary mr-4"></i>
                     <div class="">
                         <h5 class="mb-2">Email Us</h5>
-                        <p class="m-0">rahusparihar4@gmail.com</p>
+                        <p class="m-0">rahul@workforceenterprises.in</p>
                     </div>
                 </div>
             </div>
@@ -72,7 +72,7 @@
                     <i class="fa fa-3x fa-phone-alt text-secondary mr-4"></i>
                     <div class="">
                         <h5 class="mb-2">Call Us</h5>
-                        <p class="m-0">+91 93244 68701</p>
+                        <p class="m-0">+91 8169930944</p>
                     </div>
                 </div>
             </div>
