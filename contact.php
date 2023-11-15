@@ -96,7 +96,7 @@ function gotowhatsapp() {
     alert("Please fill in all fields before continuing.");
   } else {
     var url =
-      "https://wa.me/+918268219057?text=" +
+      "https://wa.me/+918169930944?text=" +
       "Name: " + name + "%0a" +
       "Email: " + email + "%0a" +
       "Subject: " + service + "%0a" +
