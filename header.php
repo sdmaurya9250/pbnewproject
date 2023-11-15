@@ -31,12 +31,10 @@
     <!-- Header Start -->
     <div class="container-fluid">
         <div class="row">
-            <div class="col-lg-3 bg-secondary d-none d-lg-block" style="position:relative">
-            <h5  class="m-0 display-5 text-primary">Workforceenterprises</h3>
-                <!-- <a href="" class="navbar-brand w-100 h-100 m-0 p-0 d-flex align-items-center justify-content-center"> -->
-                    <!-- <h1 class="m-0 display-3 text-primary">Workforceenterprises</h1> -->
-                    <!-- <img src="img/wf.jpg" alt="workforceenterprises"  style="position: absolute;" class="img-logo" style="width: -webkit-fill-available;"> -->
-                <!-- </a> -->
+            <div class="col-lg-3 y d-none d-lg-block" style="position:relative">
+            <!-- <h5  class="m-0 display-5 text-primary">Workforceenterprises</h5> -->
+            <img src="img/wf-removebg-preview.png" alt="" width="150px" height="100px">
+          
             </div>
             <div class="col-lg-9">
                 <div class="row bg-dark d-none d-lg-flex">
@@ -72,7 +70,8 @@
                 </div>
                 <nav class="navbar navbar-expand-lg bg-white navbar-light p-0">
                     <a href="" class="navbar-brand d-block d-lg-none">
-                        <h1 class="m-0 display-5 text-primary">Workforceenterprises</h1>
+                        <img src="img/wf-removebg-preview.png" alt="" width="150px" height="100px">
+                        <!-- <h1 class="m-0 display-5 text-primary">Workforceenterprises</h1> -->
                     </a>
                     <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
                         <span class="navbar-toggler-icon"></span>
@@ -81,8 +80,8 @@
                         <div class="navbar-nav mx-auto py-0">
                             <a href="index.php" class="nav-item nav-link active">Home</a>
                             <a href="about.php" class="nav-item nav-link">About</a>
-                            <a href="service.php" class="nav-item nav-link">Service</a>
-                            <a href="contact.php" class="nav-item nav-link">Contact</a>
+                            <a href="service.php" class="nav-item nav-link">Services</a>
+                            <a href="contact.php" class="nav-item nav-link">Contact Us</a>
                         </div>
                       
                     </div>

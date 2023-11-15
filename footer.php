@@ -1,7 +1,7 @@
     <!-- Footer Start -->
     <div class="container-fluid bg-dark text-white mt-5 py-5 px-sm-3 px-md-5">
         <div class="row pt-5">
-            <div class="col-lg-3 col-md-6">
+            <div class="col-lg-4 col-md-6">
                 <a href="index.php" class="navbar-brand">
                     <!-- <h2 class="m-0 mt-n3 display-51 text-primary">Workforceenterprises</h2> -->
                     <h4 class="font-weight-semi-bold text-primary mb-4">Workforceenterprises</h4>
@@ -10,7 +10,17 @@
 Because we feel that by bettering your physical environment, we are following nature's command. By going an extra mile for parenting your assets, we are doing our bit for the planet, and for God.</p>
 
             </div>
-            <div class="col-lg-3 col-md-6 mb-5">
+            <div class="col-lg-4 col-md-6 mb-5">
+                <h4 class="font-weight-semi-bold text-primary mb-4">Quick Links</h4>
+                <div class="d-flex flex-column justify-content-start">
+                    <a class="text-white mb-2" href="/"><i class="fa fa-angle-right mr-2"></i>Home</a>
+                    <a class="text-white mb-2" href="about.php"><i class="fa fa-angle-right mr-2"></i>About Us</a>
+                    <a class="text-white mb-2" href="service.php"><i class="fa fa-angle-right mr-2"></i>Services</a>
+                    <!-- <a class="text-white mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>Our Projects</a> -->
+                    <a class="text-white" href="contact.php"><i class="fa fa-angle-right mr-2"></i>Contact Us</a>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 mb-5">
                 <h4 class="font-weight-semi-bold text-primary mb-4">Get In Touch</h4>
                 <p><i class="fa fa-map-marker-alt text-primary mr-2"></i>Hanuman T, Gate No 1 hanif chs Santacruz east Mumbai 400055</p>
                 <p><i class="fa fa-phone-alt text-primary mr-2"></i>+91 81699309440</p>
@@ -22,17 +32,8 @@ Because we feel that by bettering your physical environment, we are following na
                     <a class="btn btn-light btn-social" href="#"><i class="fab fa-instagram"></i></a>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-6 mb-5">
-                <h4 class="font-weight-semi-bold text-primary mb-4">Quick Links</h4>
-                <div class="d-flex flex-column justify-content-start">
-                    <a class="text-white mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>Home</a>
-                    <a class="text-white mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>About Us</a>
-                    <a class="text-white mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>Our Services</a>
-                    <!-- <a class="text-white mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>Our Projects</a> -->
-                    <a class="text-white" href="#"><i class="fa fa-angle-right mr-2"></i>Contact Us</a>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6 mb-5">
+      
+            <!-- <div class="col-lg-3 col-md-6 mb-5">
                 <h4 class="font-weight-semi-bold text-primary mb-4">Newsletter</h4>
                 <p>We are experts in modernising the facilities management industry through innovation and customizing our responsibilities by making our team an extension of your business.</p>
                 <div class="w-100">
@@ -43,7 +44,7 @@ Because we feel that by bettering your physical environment, we are following na
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
         </div>
     </div>
     <div class="container-fluid bg-dark text-white border-top py-4 px-sm-3 px-md-5" style="border-color: #3E3E4E !important;">
