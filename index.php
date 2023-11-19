@@ -168,15 +168,15 @@
                 <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img">
-                            <img class="img-fluid w-100" src="img/portfolio-1.jpg" alt="">
+                            <img class="img-fluid w-100" src="image/1.jpeg" alt="">
                         </div>
                         <div class="portfolio-text bg-primary">
-                            <h4 class="font-weight-bold mb-4">IFM Services</h4>
+                            <!-- <h4 class="font-weight-bold mb-4">IFM Services</h4> -->
                             <div class="d-flex align-items-center justify-content-center">
-                                <a class="btn btn-sm btn-secondary m-1" href="">
+                                <!-- <a class="btn btn-sm btn-secondary m-1" href="">
                                     <i class="fa fa-link"></i>
-                                </a>
-                                <a class="btn btn-sm btn-secondary m-1" href="img/portfolio-1.jpg" data-lightbox="portfolio">
+                                </a> -->
+                                <a class="btn btn-sm btn-secondary m-1" href="image/1.jpeg" data-lightbox="portfolio">
                                     <i class="fa fa-eye"></i>
                                 </a>
                             </div>
@@ -186,15 +186,15 @@
                 <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img">
-                            <img class="img-fluid w-100" src="img/portfolio-2.jpg" alt="">
+                            <img class="img-fluid w-100" src="image/2.jpeg" alt="">
                         </div>
                         <div class="portfolio-text bg-primary">
                             <h4 class="font-weight-bold mb-4">Office Sanitization</h4>
                             <div class="d-flex align-items-center justify-content-center">
-                                <a class="btn btn-sm btn-secondary m-1" href="">
+                                <!-- <a class="btn btn-sm btn-secondary m-1" href="">
                                     <i class="fa fa-link"></i>
-                                </a>
-                                <a class="btn btn-sm btn-secondary m-1" href="img/portfolio-2.jpg" data-lightbox="portfolio">
+                                </a> -->
+                                <a class="btn btn-sm btn-secondary m-1" href="image/2.jpeg" data-lightbox="portfolio">
                                     <i class="fa fa-eye"></i>
                                 </a>
                             </div>
@@ -204,15 +204,15 @@
                 <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img">
-                            <img class="img-fluid w-100" src="img/portfolio-3.jpg" alt="">
+                            <img class="img-fluid w-100" src="image/3.jpeg" alt="">
                         </div>
                         <div class="portfolio-text bg-primary">
-                            <h4 class="font-weight-bold mb-4">Soft Services</h4>
+                            <!-- <h4 class="font-weight-bold mb-4">Soft Services</h4> -->
                             <div class="d-flex align-items-center justify-content-center">
-                                <a class="btn btn-sm btn-secondary m-1" href="">
+                                <!-- <a class="btn btn-sm btn-secondary m-1" href="">
                                     <i class="fa fa-link"></i>
-                                </a>
-                                <a class="btn btn-sm btn-secondary m-1" href="img/portfolio-3.jpg" data-lightbox="portfolio">
+                                </a> -->
+                                <a class="btn btn-sm btn-secondary m-1" href="image/3.jpeg" data-lightbox="portfolio">
                                     <i class="fa fa-eye"></i>
                                 </a>
                             </div>
@@ -222,15 +222,15 @@
                 <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img">
-                            <img class="img-fluid w-100" src="img/portfolio-4.jpg" alt="">
+                            <img class="img-fluid w-100" src="image/6.1.jpeg" alt="">
                         </div>
                         <div class="portfolio-text bg-primary">
-                            <h4 class="font-weight-bold mb-4">Technical Services</h4>
+                            <!-- <h4 class="font-weight-bold mb-4">Technical Services</h4> -->
                             <div class="d-flex align-items-center justify-content-center">
-                                <a class="btn btn-sm btn-secondary m-1" href="">
+                                <!-- <a class="btn btn-sm btn-secondary m-1" href="">
                                     <i class="fa fa-link"></i>
-                                </a>
-                                <a class="btn btn-sm btn-secondary m-1" href="img/portfolio-4.jpg" data-lightbox="portfolio">
+                                </a> -->
+                                <a class="btn btn-sm btn-secondary m-1" href="image/6.1.jpeg" data-lightbox="portfolio">
                                     <i class="fa fa-eye"></i>
                                 </a>
                             </div>
@@ -240,15 +240,15 @@
                 <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img">
-                            <img class="img-fluid w-100" src="img/portfolio-5.jpg" alt="">
+                            <img class="img-fluid w-100" src="image/4.jpeg" alt="">
                         </div>
                         <div class="portfolio-text bg-primary">
-                            <h4 class="font-weight-bold mb-4">Workplace Support</h4>
+                            <!-- <h4 class="font-weight-bold mb-4">Workplace Support</h4> -->
                             <div class="d-flex align-items-center justify-content-center">
-                                <a class="btn btn-sm btn-secondary m-1" href="">
+                                <!-- <a class="btn btn-sm btn-secondary m-1" href="">
                                     <i class="fa fa-link"></i>
-                                </a>
-                                <a class="btn btn-sm btn-secondary m-1" href="img/portfolio-5.jpg" data-lightbox="portfolio">
+                                </a> -->
+                                <a class="btn btn-sm btn-secondary m-1" href="image/4.jpeg" data-lightbox="portfolio">
                                     <i class="fa fa-eye"></i>
                                 </a>
                             </div>
@@ -258,15 +258,15 @@
                 <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img">
-                            <img class="img-fluid w-100" src="img/portfolio-6.jpg" alt="">
+                            <img class="img-fluid w-100" src="image/5.1.jpeg" alt="">
                         </div>
                         <div class="portfolio-text bg-primary">
-                            <h4 class="font-weight-bold mb-4">Production</h4>
+                            <!-- <h4 class="font-weight-bold mb-4">Production</h4> -->
                             <div class="d-flex align-items-center justify-content-center">
-                                <a class="btn btn-sm btn-secondary m-1" href="">
+                                <!-- <a class="btn btn-sm btn-secondary m-1" href="">
                                     <i class="fa fa-link"></i>
-                                </a>
-                                <a class="btn btn-sm btn-secondary m-1" href="img/portfolio-6.jpg" data-lightbox="portfolio">
+                                </a> -->
+                                <a class="btn btn-sm btn-secondary m-1" href="image/5.1.jpeg" data-lightbox="portfolio">
                                     <i class="fa fa-eye"></i>
                                 </a>
                             </div>
