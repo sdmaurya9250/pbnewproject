@@ -222,7 +222,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img">
-                            <img class="img-fluid w-100" src="image/6.1.jpeg" alt="">
+                            <img class="img-fluid w-100" src="image/6_1.jpeg" alt="">
                         </div>
                         <div class="portfolio-text bg-primary">
                             <!-- <h4 class="font-weight-bold mb-4">Technical Services</h4> -->
@@ -230,7 +230,7 @@
                                 <!-- <a class="btn btn-sm btn-secondary m-1" href="">
                                     <i class="fa fa-link"></i>
                                 </a> -->
-                                <a class="btn btn-sm btn-secondary m-1" href="image/6.1.jpeg" data-lightbox="portfolio">
+                                <a class="btn btn-sm btn-secondary m-1" href="image/6_1.jpeg" data-lightbox="portfolio">
                                     <i class="fa fa-eye"></i>
                                 </a>
                             </div>
@@ -258,7 +258,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item">
                     <div class="position-relative overflow-hidden">
                         <div class="portfolio-img">
-                            <img class="img-fluid w-100" src="image/5.1.jpeg" alt="">
+                            <img class="img-fluid w-100" src="image/5_1.jpeg" alt="">
                         </div>
                         <div class="portfolio-text bg-primary">
                             <!-- <h4 class="font-weight-bold mb-4">Production</h4> -->
@@ -266,7 +266,7 @@
                                 <!-- <a class="btn btn-sm btn-secondary m-1" href="">
                                     <i class="fa fa-link"></i>
                                 </a> -->
-                                <a class="btn btn-sm btn-secondary m-1" href="image/5.1.jpeg" data-lightbox="portfolio">
+                                <a class="btn btn-sm btn-secondary m-1" href="image/5_1.jpeg" data-lightbox="portfolio">
                                     <i class="fa fa-eye"></i>
                                 </a>
                             </div>
