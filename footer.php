@@ -23,7 +23,7 @@ Because we feel that by bettering your physical environment, we are following na
             <div class="col-lg-4 col-md-6 mb-5">
                 <h4 class="font-weight-semi-bold text-primary mb-4">Get In Touch</h4>
                 <p><i class="fa fa-map-marker-alt text-primary mr-2"></i>Hanuman T, Gate No 1 hanif chs Santacruz east Mumbai 400055</p>
-                <p><i class="fa fa-phone-alt text-primary mr-2"></i>+91 81699309440</p>
+                <p><i class="fa fa-phone-alt text-primary mr-2"></i>+91 8169930944</p>
                 <p><i class="fa fa-envelope text-primary mr-2"></i>rahul@workforceenterprises.in</p>
                 <div class="d-flex justify-content-start mt-4">
                     <a class="btn btn-light btn-social mr-2" href="#"><i class="fab fa-twitter"></i></a>
