@@ -53,7 +53,7 @@
                     <i class="fa fa-3x fa-map-marker-alt text-secondary mr-4"></i>
                     <div class="">
                         <h5 class="mb-2">Our Office</h5>
-                        <p class="m-0">Hanuman T, Gate No 1 hanif chs Santacruz east Mumbai 400055</p>
+                        <p class="m-0">Santacruz East Mumbai 400055</p>
                     </div>
                 </div>
             </div>
@@ -68,7 +68,7 @@
             </div>
             <div class="col-lg-4 p-0">
                 <div class="contact-info-item d-flex align-items-center justify-content-center bg-primary text-white py-4 py-lg-0">
-                    <i class="fa fa-3x fa-phone-alt text-secondary mr-4"></i>
+                    <i class="fa fa-3x fa-phone-alt text-secondary"></i>
                     <div class="">
                         <h5 class="mb-2">Call Us</h5>
                         <p class="m-0">+91 8169930944</p>
